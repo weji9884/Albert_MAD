@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+    <string name="title">Restaurant Finder</string>
+    <string name="cuisine_type">Choose your cuisine</string>
+    <string name="button">Find Restaurant</string>
+    <string-array name="cuisine">
+        <item>American</item>
+        <item>Japanese</item>
+        <item>Persian</item>
+        <item>Chinese</item>
+        <item>European</item>
+    </string-array>
+
+    <string name="restaurant_image">restaurant</string>
+    <string name="suggested_restaurant">This is your suggested restaurant</string>
+    <string name="title_activity_restaurant">RestaurantActivity</string>
+    <string name="create_order">Order</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">You should check out </string>
+</resources>
