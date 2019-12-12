@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GyroControl</string>
+<!--    <string name="textGenerate">whaaat</string>-->
+    <string name="button">Test</string>
+</resources>
